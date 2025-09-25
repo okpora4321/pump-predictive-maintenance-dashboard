@@ -68,8 +68,4 @@ The system allows employees to:
 
 ## 📂 Repository Contents
 
-pump-predictive-maintenance-dashboard/
-│── Pump_Maintenance_Dashboard.xlsx   # Excel dashboard
-│── README.md                         # Case study documentation
-└── images/                           # Dashboard screenshots
 
